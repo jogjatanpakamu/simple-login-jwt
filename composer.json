@@ -1,0 +1,17 @@
+{
+    "name": "admin/simple-login-jwt",
+    "autoload": {
+        "psr-4": {
+            "Admin\\SimpleLoginJwt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jogjatanpakamu",
+            "email": "aaamar.er@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.8"
+    }
+}
